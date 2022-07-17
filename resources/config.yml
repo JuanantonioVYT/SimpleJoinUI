@@ -1,0 +1,13 @@
+#SimpleJoinUI created by JuanantonioVYT for MegaHost community
+
+#Join & Quit Message
+
+Join-Message: "[+]{player}"
+
+Quit-Message: "[-]{player}"
+
+#Form Join Message
+
+TitleForm: "MegaHosting"
+MessageForm: "Bienvenido al servidor\n\nMessage\n\nMessage\n\nIP.PORT"
+
